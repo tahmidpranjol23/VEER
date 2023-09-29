@@ -1,0 +1,5 @@
+@media (max-width: 580px) {
+    .home_con_main h2{
+      letter-spacing: 0;
+    }
+}
